@@ -1,6 +1,6 @@
 let img;
 function preload() {
-  img = loadImage("img/wdi23.jpg");
+  img = loadImage("img/immersives.gif");
 }
 
 function setup() {
